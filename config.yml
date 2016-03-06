@@ -1,0 +1,7 @@
+# 			MYS
+# 	Is a Private plugin for the server MysteryCraft.de
+Commands:
+  ts: '&3Unser Teamspeak 3 Server ist: &6MysteryCraft.de&3.'
+  web: '&3Unsere Internetseite ist&6 http://webmysterycraft.jimdo.com/'
+  regeln: '&3Unsere Regeln sind unter:&6 http://webmysterycraft.jimdo.com/regeln/ &3zu er halten.'
+  System: '&c[&9MysteryCraft&c]'
